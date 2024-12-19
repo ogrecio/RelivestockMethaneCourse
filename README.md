@@ -1,8 +1,8 @@
 # RelivestockMethaneCourse
 
-##Tuesday 25
+## Tuesday 25
 
-##3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
+## 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
   -type of methane traits for beef or dairy (Coralia & Oscar)
   
@@ -22,7 +22,7 @@
     
     -Case of The Netherlands
   
-##3.2. Practical work: Editing raw data from sniffer and greenfeed
+## 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
   -Data set (files provided)
   
