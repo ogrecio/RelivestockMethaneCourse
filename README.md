@@ -2,7 +2,7 @@
 
 ## Tuesday 25
 
-## 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
+### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
   -type of methane traits for beef or dairy (Coralia & Oscar)
   
@@ -22,7 +22,7 @@
     
     -Case of The Netherlands
   
-## 3.2. Practical work: Editing raw data from sniffer and greenfeed
+### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
   -Data set (files provided)
   
@@ -32,4 +32,26 @@
   -Oscar's program to align sniffer data to robot data
   
   -
-  
+
+### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
+
+-
+
+-
+
+## Wednesday 26
+
+### 5.1. Overview of proxies to estimate methane emission. Mid infrared spectra (A. Vanlierde)
+
+### 5.2. Overview of proxies to estimate methane emission. Microbiome (O. Gonzalez Recio, Suzanne Rowe)
+
+## Thursday 27
+
+### 6.1 – 6.2. Implementation of methane traits in breeding programs (O. Gonzalez Recio)
+
+### 6.3. Case study: Examples of implementation methane traits in breeding programs: Australia, New Zealand, Spain
+
+### Summary and Final remarks
+
+
+
