@@ -6,7 +6,7 @@
 
   -type of methane traits for beef or dairy (Coralia & Oscar)
   
-  -particularites, advantages and disadvantges (Coralia & Oscar)
+  -particularites, advantages and disadvantges of the traits (Coralia & Oscar)
   
   -Workflow for alignment from sniffer data (Oscar)
   
