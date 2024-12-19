@@ -49,7 +49,13 @@
 
 ### 6.1 – 6.2. Implementation of methane traits in breeding programs (O. Gonzalez Recio)
 
-### 6.3. Case study: Examples of implementation methane traits in breeding programs: Australia, New Zealand, Spain
+### 6.3. Case study: Examples of implementation methane traits in breeding programs: 
+  
+  -Australia
+  
+  -New Zealand
+  
+  -Spain
 
 ### Summary and Final remarks
 
