@@ -10,6 +10,7 @@
   
   -Workflow for alignment from sniffer data (Oscar)
   
+  
   -Calculation of baseline from sniffer in different countries (Coralia & Oscar)
   
   -Example of data from GreenFeed (Oscar or Birgit?)
@@ -30,6 +31,20 @@
   download data set from [here](data/output.txt.zip)
   
   -Oscar's program to align sniffer data to robot data
+  we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
+  
+  ```
+    ./SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
+  ```
+
+For instance, with the example files we use in the course we execute it as:  
+  
+  ```
+    ./SnifferAnalyzer herd_robot101.csv herd_sniffer101_Loggy_42s_FD1.txt 42
+  ```
+  
+  Make sure the Sniffer Analyzer is executable ```chmod +x SnifferAnalyzer```
+  
   
   -
 
