@@ -30,7 +30,7 @@ event_duration <- event_ch4 %>%
     lenght = as.numeric(difftime(max(datetime), min(datetime), units = "secs"))
   )
 
-############################################# ploting automatically all cows and all events works well
+############################################# ploting automatically all cows and all events #################################
 install.packages(c("ggplot2", "lubridate"))
 
 # Get unique combinations of cows and events
