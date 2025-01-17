@@ -7,15 +7,14 @@
   -type of methane traits for beef or dairy (Coralia & Oscar)
   
   -particularites, advantages and disadvantges of the traits (Coralia & Oscar)
-  
-  -Workflow for alignment from sniffer data (Oscar)
-  
+
+  -From concentration to production
   
   -Calculation of baseline from sniffer in different countries (Coralia & Oscar)
   
   -Example of data from GreenFeed (Oscar or Birgit?)
   
-  -Merging data with milking recording scheme or growth data. Where does each file com from
+  -Workflow for alignment from sniffer data (Oscar)
   
     -Case of Spain
     
