@@ -47,9 +47,9 @@
 
 ### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
--
-
--
+#### ASReml
+- User guide -> [functional specification](ASReml-4.2-Functional-Specification.pdf)
+- User guide -> [structural specification](ASReml-4.2-Structural-Specification.pdf)
 
 ## Wednesday 26
 
