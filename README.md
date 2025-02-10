@@ -4,17 +4,15 @@
 
 ### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
-  -type of methane traits for beef or dairy (Coralia & Oscar)
+  -type of methane traits for beef or dairy
   
-  -particularites, advantages and disadvantges of the traits (Coralia & Oscar)
+  -particularites, advantages and disadvantges of the traits
 
   -From concentration to production
   
-  -Calculation of baseline from sniffer in different countries (Coralia & Oscar)
-  
-  -Example of data from GreenFeed (Oscar or Birgit?)
-  
-  -Workflow for alignment from sniffer data (Oscar)
+  -Calculation of baseline from sniffer in different countries
+    
+  -Practicalities for filtering and alignment data from sniffer and AMS
   
     -Case of Spain
     
@@ -24,28 +22,28 @@
   
 ### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
-  -Data set (files provided)
+#### Data from GreenFeed & C-Lock (Lisanne Koning, Wageningen University & Research
+
+#### Server connection and practicalities
+
+#### Data from Sniffers
+
+  - Data set (files provided)
   
-  -Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
+  - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
   download data set from [here](data/output.txt.zip)
   
-  -Oscar's program to align sniffer data to robot data
+  - How to align sniffer data to robot data
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
   
   ```
     ./SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
   ```
+  
+  - How to align sniffer data to robot data
+    
+  - Basic data analysis
 
-For instance, with the example files we use in the course we execute it as:  
-  
-  ```
-    ./SnifferAnalyzer herd_robot101.csv herd_sniffer101_Loggy_42s_FD1.txt 42
-  ```
-  
-  Make sure the Sniffer Analyzer is executable ```chmod +x SnifferAnalyzer```
-  
-  
-  -
 
 ### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
@@ -55,21 +53,45 @@ For instance, with the example files we use in the course we execute it as:
 
 ## Wednesday 26
 
+### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
+
+     Continue
+
+### 4.3. Discussion session: Estimation of genetic parameters and genetic models for methane emission
+
+  Open discussion about aspects related to covariance estimation for methane traits and other aspects related to genetic/genomic evaluations.
+
 ### 5.1. Overview of proxies to estimate methane emission. Mid infrared spectra (A. Vanlierde)
 
-### 5.2. Overview of proxies to estimate methane emission. Microbiome (O. Gonzalez Recio, Suzanne Rowe)
+  Invited Speaker: Amelie Vanlierde - Walloon Agricultural Research Centre, Belgium.
+    
+### 5.2. Overview of proxies to estimate methane emission. Microbiome 
+
+   State of the art in Spain: O. Gonzalez Recio - INIA-CSIC
+   
+   State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand.
 
 ## Thursday 27
 
-### 6.1 – 6.2. Implementation of methane traits in breeding programs (O. Gonzalez Recio)
+### 6.1. Implementation of methane traits in breeding programs 
 
-### 6.3. Case study: Examples of implementation methane traits in breeding programs: 
+#### 6.2. Case study: Spain (O. Gonzalez Recio, INIA-CSIC)
+
+-Genetic evaluations for methane traits (progress this far)
+
+-Including methane in the breeding goal of Spanish Dairy Cattle (future perspectives)
+
+### 6.3. Other cases of study from invited speakers 
+
+#### Australia (Jennie Pryce - Agriculture Victoria) 
   
-  -Australia
+#### Canada (Filippo Miglior - Lactanet & University of Guelph) 
   
-  -New Zealand
+#### New Zealand (Suzanne Rowe, AgResearch) 
   
-  -Spain
+### 6.4. Discussion session. 
+
+Open discussion and questions about how to incorporate methane traits in breeding programs.
 
 ### Summary and Final remarks
 
