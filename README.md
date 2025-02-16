@@ -33,10 +33,11 @@
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
   download data set from [here](data/output.txt.zip)
   
-  - How to align sniffer data to robot data
+  - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
   
   ```
+    module load 
     ./SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
   ```
   
