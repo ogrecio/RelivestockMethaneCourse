@@ -89,6 +89,8 @@
 #### Canada (Filippo Miglior - Lactanet & University of Guelph) 
   
 #### New Zealand (Suzanne Rowe, AgResearch) 
+
+#### The Netherlands (Chris Orret - CRV)
   
 ### 6.4. Discussion session. 
 
