@@ -4,7 +4,7 @@
 
 ### 2.1-2.5 Methane measurement techniques 
     
-[slides](slides/Methane measurement techniques_CIHEAM.pdf)
+[slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
 
 ## Tuesday 25
 
