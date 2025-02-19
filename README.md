@@ -1,5 +1,11 @@
 # RelivestockMethaneCourse
 
+## Monday 24
+
+### 2.1-2.5 Methane measurement techniques 
+    
+[slides](slides/Methane measurement techniques_CIHEAM.pdf)
+
 ## Tuesday 25
 
 ### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
