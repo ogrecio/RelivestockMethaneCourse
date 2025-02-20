@@ -48,7 +48,7 @@
   ```
   
   - How to align sniffer data to robot data
-  - Align output to test day data. [script](Scripts/merge_sniffer_testday.ipynb)
+  - Align output to test day data. [script](Rscripts/merge_sniffer_testday.ipynb)
 
   - Basic data analysis
 
