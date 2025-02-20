@@ -22,8 +22,6 @@
   
     -Case of Spain
     
-    -Case of Denmark
-    
     -Case of The Netherlands
   
 ### 3.2. Practical work: Editing raw data from sniffer and greenfeed
