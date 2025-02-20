@@ -48,8 +48,11 @@
   ```
   
   - How to align sniffer data to robot data
-    
+  - Align output to test day data. [script](Scripts/test.ipynb)
+
   - Basic data analysis
+
+  - 
 
 
 ### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
