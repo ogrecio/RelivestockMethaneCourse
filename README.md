@@ -6,7 +6,7 @@
     
 Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
 
-Green Feed (Lisanne Koning) [slides](Presentation_GreenFeed_ReLivestock_LK.pdf)
+Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
 
 
 ## Tuesday 25
