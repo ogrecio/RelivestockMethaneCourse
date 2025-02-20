@@ -4,7 +4,10 @@
 
 ### 2.1-2.5 Methane measurement techniques 
     
-[slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
+Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
+
+Green Feed (Lisanne Koning) [slides](Presentation_GreenFeed_ReLivestock_LK.pdf)
+
 
 ## Tuesday 25
 
