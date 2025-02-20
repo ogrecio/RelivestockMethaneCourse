@@ -38,6 +38,15 @@
   
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
   download data set from [here](data/output.txt.zip)
+
+ Clone git hub
+
+````
+git clone dffgdg
+````
+
+Execute [R script]()
+
   
   - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
