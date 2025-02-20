@@ -55,7 +55,7 @@ Execute [R script]()
   ```
   
   - How to align sniffer data to robot data
-  - Align output to test day data. [script](Rscripts/merge_sniffer_testday.ipynb)
+  - Align output to test day data. [script](Day1/merge_sniffer_testday.ipynb)
 
   - Basic data analysis
 
