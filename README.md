@@ -14,11 +14,14 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
 
 ### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
-  -type of methane traits for beef or dairy
+  - Type of methane traits: methane concentration, methane production and other methane traits
+  -    methane concentration phenotypes
+  -    methane production phenotypes
+            - from concentration to production
+            - different formulas (Madsen, Kjeldsen, etc)
+  -    residual methane, methane intensity and methane yield
   
-  -particularites, advantages and disadvantges of the traits
-
-  -From concentration to production
+  - Particularites, advantages and disadvantges of the traits
   
   -Calculation of baseline from sniffer in different countries
     
@@ -39,15 +42,20 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
   - Data set (files provided in Day1 folder)
   
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
-  download data set from [here](data/output.txt.zip)
+  download data set from Day 1: input_raw.txt
 
- - Access Annuna cluster: Relivestock course
+ - Access Annuna cluster: https://notebook.anunna.wur.nl
+ - Choose Relivestock course
+ - Open New
+ - Open terminal
  - Clone git hub 
 
 ````
 git clone https:
 
 ````
+- cd Day1
+- Open the Rscript.ipnyb
 - Run the Jupyter Notebook R script: Rscript.ipnyb interactively
 - Exercise: Calculate correlations between traits
   
