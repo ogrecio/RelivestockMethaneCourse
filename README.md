@@ -6,10 +6,11 @@
     
 Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
 
-Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
-
+Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides]()
 
 ## Tuesday 25
+
+Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
 
 ### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
@@ -101,11 +102,13 @@ Execute [R script]()
 
 ### 6.3. Other cases of study from invited speakers 
 
-#### Australia (Jennie Pryce - Agriculture Victoria) 
+#### Spain (Oscar Gonzalez-Recio - INIA-CSIC) 
+
+#### Australia (Jennie Pryce - Agriculture Victoria)   
   
+#### New Zealand (Lorna McNaughton, LIC) 
+
 #### Canada (Filippo Miglior - Lactanet & University of Guelph) 
-  
-#### New Zealand (Suzanne Rowe, AgResearch) 
 
 #### The Netherlands (Chris Orret - CRV)
   
