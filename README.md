@@ -48,7 +48,8 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
 git clone https:
 
 ````
-Run the Jupyter Notebook R script: Rscript.ipnyb
+- Run the Jupyter Notebook R script: Rscript.ipnyb interactively
+- Exercise: Calculate correlations between traits
   
   - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
@@ -57,7 +58,7 @@ Run the Jupyter Notebook R script: Rscript.ipnyb
     module load 
     ./SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
   ```
-  
+  - This can be run trhough the bash.sh too or manually in the terminal
   - How to align sniffer data to robot data
   - Align output to test day data. [script](Day1/merge_sniffer_testday.ipynb)
 
@@ -74,11 +75,17 @@ Run the Jupyter Notebook R script: Rscript.ipnyb
 
 ### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
-     Continue
+     - Overview of genetic parameter estimation, repeatability model and random regression. Fixed and random effects.
+     - Brief explanation of ASReml software, input files (.as files, data and pedigree), output files (.asr, .sln, .pvc, .res)
+     - Examples of univariate and bivariate analyses and random regression
+     - Practical: Estimation of genetic parameters in ASReml (data and scripts in Day2) for univariate, bivariate and RR models
+         -Can be run using the bash2.sh files o directly in the terminal
 
 ### 4.3. Discussion session: Estimation of genetic parameters and genetic models for methane emission
 
-  Open discussion about aspects related to covariance estimation for methane traits and other aspects related to genetic/genomic evaluations.
+  - Results of genetic parameters from inter-country analyses: 2 examples
+  
+  - Open discussion about aspects related to covariance estimation for methane traits and other aspects related to genetic/genomic evaluations.
 
 ### 5.1. Overview of proxies to estimate methane emission. Mid infrared spectra (A. Vanlierde)
 
