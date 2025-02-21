@@ -51,11 +51,12 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
  - Clone git hub 
 
 ````
-git clone https:
+git clone https://github.com/ogrecio/RelivestockMethaneCourse
+cd Day1
 
 ````
 - cd Day1
-- Open the Rscript.ipnyb
+- Open the Rscript.ipnyb (doble click in the file)
 - Run the Jupyter Notebook R script: Rscript.ipnyb interactively
 - Exercise: Calculate correlations between traits
   
