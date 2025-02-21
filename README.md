@@ -42,7 +42,7 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
   - Data set (files provided in Day1 folder)
   
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
-  download data set from Day 1: input_raw.txt
+  download data set from Day 1: (input_raw.txt)
 
  - Access Annuna cluster: https://notebook.anunna.wur.nl
  - Choose Relivestock course
@@ -55,7 +55,7 @@ git clone https://github.com/ogrecio/RelivestockMethaneCourse
 cd Day1
 
 ````
-- cd Day1
+
 - Open the Rscript.ipnyb (doble click in the file)
 - Run the Jupyter Notebook R script: Rscript.ipnyb interactively
 - Exercise: Calculate correlations between traits
