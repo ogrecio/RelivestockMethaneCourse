@@ -56,22 +56,23 @@ cd Day1
 
 ````
 
-- Open the Rscript.ipnyb (doble click in the file)
-- Run the Jupyter Notebook R script: Rscript.ipnyb interactively
+- Open the Rscript.ipnyb (doble click in the file) inside Day1 in Home (Annuna Jupyter Notebook)
+- Run the Jupyter Notebook [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip): Rscript.ipnyb interactively
 - Exercise: Calculate correlations between traits
   
-  - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
+  - How to align [R script](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
 SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
   
   ```
-ml use /lustre/shared/Courses/RELIVESTOCK2025/modules
+   ml use /lustre/shared/Courses/RELIVESTOCK2025/modules
 
-module load SnifferAnalyzer
+   module load SnifferAnalyzer
 
-sniffer_analyzer herd_robot101.csv herd_sniffer101_Loggy_42s_FD1.txt 42
+   sniffer_analyzer herd_robot101.csv herd_sniffer101_Loggy_42s_FD1.txt 42
   ```
-  - This can be run through the bash.sh too or manually in the terminal by the command above
+  
+  -  This can be run through the [bashfile] (Day1/bash.sh) too or manually in the terminal by the command above
   - How to align sniffer data to robot data
   - Align output to test day data. [script](Day1/merge_sniffer_testday.ipynb)
 
