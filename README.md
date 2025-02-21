@@ -42,7 +42,7 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
   - Data set (files provided in Day1 folder)
   
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
-  download data set from Day 1: (input_raw.txt)
+  download data set from Day 1: (Day1/input_raw.txt)
 
  - Access Annuna cluster: https://notebook.anunna.wur.nl
  - Choose Relivestock course
@@ -62,16 +62,20 @@ cd Day1
   
   - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
+SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
   
   ```
-    module load 
-    ./SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_and_robot_in_seconds
+ml use /lustre/shared/Courses/RELIVESTOCK2025/modules
+
+module load SnifferAnalyzer
+
+sniffer_analyzer herd_robot101.csv herd_sniffer101_Loggy_42s_FD1.txt 42
   ```
-  - This can be run trhough the bash.sh too or manually in the terminal
+  - This can be run through the bash.sh too or manually in the terminal by the command above
   - How to align sniffer data to robot data
   - Align output to test day data. [script](Day1/merge_sniffer_testday.ipynb)
 
-  - Basic data analysis
+  - Basic data analysis (Ester part)
 
 
 ### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
