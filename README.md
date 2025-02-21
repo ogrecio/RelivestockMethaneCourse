@@ -36,19 +36,19 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
 
 #### Data from Sniffers
 
-  - Data set (files provided)
+  - Data set (files provided in Day1 folder)
   
   - Practical work on defining traits from sniffer data, baseline, and peak detection (Coralia)
   download data set from [here](data/output.txt.zip)
 
- Clone git hub
+ - Access Annuna cluster: Relivestock course
+ - Clone git hub 
 
 ````
-git clone dffgdg
+git clone https:
+
 ````
-
-Execute [R script]()
-
+Run the Jupyter Notebook R script: Rscript.ipnyb
   
   - How to align [sniffer data](data/herd_sniffer101_Loggy_48sg.txt.zip) to [robot data](data/herd_robot101.csv)
   we need output files from sniffer and robot. We check the format. Then we use the tool SnifferAnalyzer, which is executed as:
