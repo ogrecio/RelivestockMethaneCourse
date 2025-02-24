@@ -2,6 +2,9 @@
 
 ## Monday 24
 
+### Introduction to Relivestock Project
+[slides](slides/0.1.Re-Livestock.Breedingcourse.Intro.pdf)
+
 ### 2.1-2.5 Methane measurement techniques 
     
 Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
