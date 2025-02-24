@@ -2,8 +2,14 @@
 
 ## Day 1 (Monday)
 
-### Introduction to Relivestock Project
+#### Introduction to Relivestock Project
 [slides](slides/0.1.Re-Livestock.Breedingcourse.Intro.pdf)
+
+#### Overview of global GHG emissions and genetics developments for methane mitigation in ruminants (Hayden Montgomery - Global Methane Hub)
+
+#### Introduction to Relivestock WP3 and to the course (Birgit Gredler-Grandl, WUR)
+
+[slides](slides/0_Gredler.Introduction-Overview.pdf)
 
 ### 1. Overview of global GHG emissions and genetics developments for methane mitigation in ruminants
 
