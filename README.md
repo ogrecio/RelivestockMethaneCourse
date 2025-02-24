@@ -6,8 +6,7 @@
 
 #### Overview of global GHG emissions and genetics developments for methane mitigation in ruminants (Hayden Montgomery - Global Methane Hub) [slides](slides/)
 
-#### Introduction to Relivestock WP3 and to the course (Birgit Gredler-Grandl, WUR) 
-[slides](slides/0_Gredler.Introduction-Overview.pdf)
+#### Introduction to Relivestock WP3 and to the course (Birgit Gredler-Grandl, WUR) [slides](slides/0_Gredler.Introduction-Overview.pdf)
 
 ### 1. Overview of global GHG emissions and genetics developments for methane mitigation in ruminants
 
