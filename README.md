@@ -38,9 +38,9 @@ Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/P
     
   -Practicalities for filtering and alignment data from sniffer and AMS
   
-    - Case of Spain
+  - Case of Spain
     
-    - Case of The Netherlands
+  - Case of The Netherlands
   
 #### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
