@@ -1,21 +1,26 @@
-# RelivestockMethaneCourse
+# Cattle breeding for low methane emissions: From farm measurements to genetic progress
 
-## Monday 24
+## Day 1 (Monday)
 
 ### Introduction to Relivestock Project
 [slides](slides/0.1.Re-Livestock.Breedingcourse.Intro.pdf)
 
-### 2.1-2.5 Methane measurement techniques 
+### 1. Overview of global GHG emissions and genetics developments for methane mitigation in ruminants
+
+### 2. Methane measurement techniques 
     
 Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
 
 Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides]()
 
-## Tuesday 25
+## Day 2 (Tuesday)
 
-Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
 
-### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
+### 3. Working with Sniffer and GreenFeed data
+
+Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
+
+#### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
 
   - Type of methane traits: methane concentration, methane production and other methane traits
   -    methane concentration phenotypes
@@ -34,7 +39,7 @@ Green Feed (Lisanne Koning) [slides](slides/Presentation_GreenFeed_ReLivestock_L
     
     -Case of The Netherlands
   
-### 3.2. Practical work: Editing raw data from sniffer and greenfeed
+#### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
 #### Data from GreenFeed & C-Lock (Lisanne Koning, Wageningen University & Research
 
@@ -81,16 +86,15 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
   - Basic data analysis (Ester part)
 
+### 4. Genetic analysis of methane data
 
-### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
+#### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
 #### Introduction to ASReml
 - User guide -> [functional specification](ASReml-4.2-Functional-Specification.pdf)
 - User guide -> [structural specification](ASReml-4.2-Structural-Specification.pdf)
 
-## Wednesday 26
-
-### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
+#### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
      - Overview of genetic parameter estimation, repeatability model and random regression. Fixed and random effects.
      - Brief explanation of ASReml software, input files (.as files, data and pedigree), output files (.asr, .sln, .pvc, .res)
@@ -98,25 +102,29 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
      - Practical: Estimation of genetic parameters in ASReml (data and scripts in Day2) for univariate, bivariate and RR models
          -Can be run using the bash2.sh files o directly in the terminal
 
-### 4.3. Discussion session: Estimation of genetic parameters and genetic models for methane emission
+#### 4.3. Discussion session: Estimation of genetic parameters and genetic models for methane emission
 
   - Results of genetic parameters from inter-country analyses: 2 examples
   
   - Open discussion about aspects related to covariance estimation for methane traits and other aspects related to genetic/genomic evaluations.
 
-### 5.1. Overview of proxies to estimate methane emission. Mid infrared spectra (A. Vanlierde)
+## Day 3 (Wednesday)
+
+### 5. Overview of proxies to estimate methane emission.
+
+#### 5.1. Mid infrared spectra
 
   Invited Speaker: Amelie Vanlierde - Walloon Agricultural Research Centre, Belgium.
     
-### 5.2. Overview of proxies to estimate methane emission. Microbiome 
+#### 5.2. Microbiome 
 
    State of the art in Spain: O. Gonzalez Recio - INIA-CSIC
    
    State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand.
 
-## Thursday 27
+## Day 4 (Thursday)
 
-### 6.1. Implementation of methane traits in breeding programs 
+### 6. Implementation of methane traits in breeding programs 
 
 #### 6.2. Case study: Spain (O. Gonzalez Recio, INIA-CSIC)
 
@@ -124,17 +132,17 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
 -Including methane in the breeding goal of Spanish Dairy Cattle (future perspectives)
 
-### 6.3. Other cases of study from invited speakers 
+#### 6.3. Other cases of study from invited speakers 
 
-#### Spain (Oscar Gonzalez-Recio - INIA-CSIC) 
+- Spain (Oscar Gonzalez-Recio - INIA-CSIC) 
 
-#### Australia (Jennie Pryce - Agriculture Victoria)   
+- Australia (Jennie Pryce - Agriculture Victoria)   
   
-#### New Zealand (Lorna McNaughton, LIC) 
+- New Zealand (Lorna McNaughton, LIC) 
 
-#### Canada (Filippo Miglior - Lactanet & University of Guelph) 
+- Canada (Filippo Miglior - Lactanet & University of Guelph) 
 
-#### The Netherlands (Chris Orret - CRV)
+- The Netherlands (Chris Orret - CRV)
   
 ### 6.4. Discussion session. 
 
