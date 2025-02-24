@@ -14,7 +14,7 @@
     
 Laser device, Sniffers, Green Feed (Aser García Rodriguez and Idoia Goiri) [slides](slides/Methane_measurement_techniques_CIHEAM.pdf)
 
-Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides]()
+Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides](slides/presentatie_sniffersv2.pdf)
 
 ## Day 2 (Tuesday)
 
