@@ -23,7 +23,7 @@ Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides](slid
 
 Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
 
-#### 3.1. Definition of methane phenotypes in Cattle (O. Gonzalez-Recio, C. Manzanilla-Pech)
+#### 3.1. Definition of methane phenotypes in Cattle (C. Manzanilla-Pech, E. Terán)
 
   - Type of methane traits: methane concentration, methane production and other methane traits
   -    methane concentration phenotypes
