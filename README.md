@@ -84,7 +84,7 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
   - How to align sniffer data to robot data
   - Align output to test day data. [script](Day1/merge_sniffer_testday.ipynb)
 
-  - Basic data analysis (Ester part)
+  - Basic data analysis 
 
 ### 4. Genetic analysis of methane data
 
