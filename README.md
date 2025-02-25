@@ -120,7 +120,7 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
    State of the art in Spain: O. Gonzalez Recio - INIA-CSIC. [slides](slides/5.2.Microbiome.Spain.pdf)
    
-   State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand. [slides](slides/Microbiomes_for_prediction_Suzanne_Rowe.pdf)
+   State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand. [slides](slides/5.2.Microbiome.NewZealand.pdf)
 
 ## Day 4 (Thursday)
 
