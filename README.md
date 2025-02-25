@@ -21,7 +21,7 @@ Overview of comparison between sniffers (Chantal van Gemeert, WUR) [slides](slid
 
 ### 3. Working with Sniffer and GreenFeed data
 
-Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
+Data from GreenFeed & C-Lock (Lisanne Koning, Wageningen University & Research) [slides](slides/Presentation_GreenFeed_ReLivestock_LK.pdf)
 
 #### 3.1. Definition of methane phenotypes in Cattle (C. Manzanilla-Pech, E. Terán)
 
@@ -40,7 +40,8 @@ Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/P
   [slides](slides/3.1.-MethanePhenotypes.pdf)
 #### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
-#### Data from GreenFeed & C-Lock (Lisanne Koning, Wageningen University & Research
+  [slides](slides/3.2.-Practical_work_compressed.pdf)
+
 
 #### Server connection and practicalities
 
