@@ -26,22 +26,18 @@ Green Feed (Lisanne Koning - Wageningen University & Research) [slides](slides/P
 #### 3.1. Definition of methane phenotypes in Cattle (C. Manzanilla-Pech, E. Terán)
 
   - Type of methane traits: methane concentration, methane production and other methane traits
-  -    methane concentration phenotypes
-  -    methane production phenotypes
-            - from concentration to production
-            - different formulas (Madsen, Kjeldsen, etc)
-  -    residual methane, methane intensity and methane yield
-  
-  - Particularites, advantages and disadvantges of the traits
-  
+    
   -Calculation of baseline from sniffer in different countries
     
   -Practicalities for filtering and alignment data from sniffer and AMS
   
   - Case of Spain
     
+  - Case of Denmark
+    
   - Case of The Netherlands
-  
+
+  [slides](slides/3.1.-MethanePhenotypes.pdf)
 #### 3.2. Practical work: Editing raw data from sniffer and greenfeed
 
 #### Data from GreenFeed & C-Lock (Lisanne Koning, Wageningen University & Research
@@ -123,7 +119,7 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
    State of the art in Spain: O. Gonzalez Recio - INIA-CSIC
    
-   State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand.
+   State of the art in New Zealand: Suzanne Rowe (Invited Speaker) AgResearch, New Zealand. [slides](slides/Microbiomes_for_prediction_Suzanne_Rowe.pdf)
 
 ## Day 4 (Thursday)
 
