@@ -140,7 +140,7 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
 - Australia (Jennie Pryce - Agriculture Victoria)   
   
-- New Zealand (Lorna McNaughton, LIC) 
+- [New Zealand](slides/6.3.NZ.pdf) (Lorna McNaughton, LIC) 
 
 - Canada (Filippo Miglior - Lactanet & University of Guelph) 
 
