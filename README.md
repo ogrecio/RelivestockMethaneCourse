@@ -90,6 +90,8 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
 #### 4.1.– 4.2. Estimation of genetic parameters and genetic models for methane emission (B. Gredler-Grandl, C. Manzanilla-Pech)
 
+[slides](slides/4.1.Gredler_GeneticParameterEstimation.pdf)
+
 #### Introduction to ASReml
 - User guide -> [functional specification](ASReml-4.2-Functional-Specification.pdf)
 - User guide -> [structural specification](ASReml-4.2-Structural-Specification.pdf)
