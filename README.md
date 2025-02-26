@@ -110,6 +110,8 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
   
   - Open discussion about aspects related to covariance estimation for methane traits and other aspects related to genetic/genomic evaluations.
 
+  [slides](slides/4.3.-VCE.genetic_parameters.pdf)
+
 ## Day 3 (Wednesday)
 
 ### 5. Overview of proxies to estimate methane emission.
