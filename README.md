@@ -138,15 +138,15 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 
 #### 6.3. Other cases of study from invited speakers 
 
-- Spain (Oscar Gonzalez-Recio - INIA-CSIC) 
+- [Spain](slides/6.3.Spain.pdf) (Oscar Gonzalez-Recio - INIA-CSIC) 
 
 - [Australia](slides/Pryce_presentation_compressed.pdf) (Jennie Pryce - Agriculture Victoria)   
   
 - [New Zealand](slides/6.3.NZ.pdf) (Lorna McNaughton, LIC) 
 
-- Canada (Filippo Miglior - Lactanet & University of Guelph) 
+- [Canada](slides/6.3.Miglior_CAN.pdf) (Filippo Miglior - Lactanet & University of Guelph) 
 
-- The Netherlands (Chris Orret - CRV)
+- [The Netherlands](slides/6.3.NDL.pdf) (Chris Orret - CRV)
   
 ### 6.4. Discussion session. 
 
