@@ -104,6 +104,8 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
      - Practical: Estimation of genetic parameters in ASReml (data and scripts in Day2) for univariate, bivariate and RR models
          -Can be run using the bash2.sh files o directly in the terminal
 
+[slides](slides/4.2.Practical.pdf)
+
 #### 4.3. Discussion session: Estimation of genetic parameters and genetic models for methane emission
 
   - Results of genetic parameters from inter-country analyses: 2 examples
@@ -119,6 +121,7 @@ SnifferAnalyzer <robot_output_file> <sniffer_output_file> lag_between_sniffer_an
 #### 5.1. Mid infrared spectra
 
   Invited Speaker: Amelie Vanlierde - Walloon Agricultural Research Centre, Belgium.
+  [slides](slides/5.1.MIR_Vanlierde.pdf)
     
 #### 5.2. Microbiome 
 
