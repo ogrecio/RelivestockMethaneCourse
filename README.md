@@ -8,7 +8,7 @@
 
 #### - Introduction to Relivestock WP3 and to the course (Birgit Gredler-Grandl, WUR) [slides](slides/0_Gredler.Introduction-Overview.pdf)
 
-### 1. Overview of global GHG emissions and genetics developments for methane mitigation in ruminants
+### 1. Overview of global GHG emissions and genetics developments for methane mitigation in ruminants (Roel Veerkamp and Birgit Gredler-Grandl - WUR) [slides](slides/Course_GlobalMethaneGenetics_VeerkampGredler.pdf)
 
 ### 2. Methane measurement techniques 
     
